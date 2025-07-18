@@ -18,33 +18,32 @@ This repository contains the links to the software reported in the different tab
 - SOD2D: https://gitlab.com/bsc_sod2d/sod2d_gitlab
 - spectralDNS: https://github.com/spectralDNS/spectralDNS
 - SU2: https://su2code.github.io
-- WaterLily.jl
+- WaterLily.jl: https://github.com/WaterLily-jl/WaterLily.jl
 
 
 ## Codes for DNS of multiphase incompressible flows
-- accLB 
-- AFiD-MuRPhFi 
+- AFiD-MuRPhFi: https://chowland.github.io/AFiD-MuRPhFi/
 - Aphros: https://github.com/cselab/aphros
-- Basilisk 
+- Basilisk: http://basilisk.fr
 - CaNS-Fizzy: https://github.com/CaNS-World/CaNS-Fizzy
 - Flutas: https://github.com/Multiphysics-Flow-Solvers/FluTAS
 - FLOW36: https://github.com/MultiphaseFlowLab/FLOW36 
 - FluidX3D: https://github.com/ProjectPhysX/FluidX3D
 - MHIT36: https://github.com/MultiphaseFlowLab/MHIT36
-- MFIX-Exa: 
-- NaSt3DGPF 
-- Palabos 
-- PARIS 
+- MFIX-Exa: https://mfix.netl.doe.gov/products/mfix-exa/
+- NaSt3DGPF: https://ins.uni-bonn.de/media/public/u/griebel/NaSt3DGPF/
+- Palabos: https://gitlab.com/unigespc/palabos
+- PARIS: http://www.ida.upmc.fr/~zaleski/paris/
 - TLBfind: https://github.com/FrancescaPelusi/TLBfind
-- WaterLily.jl 
+- WaterLily.jl: https://github.com/WaterLily-jl/WaterLily.jl
 
 
 ## Codes for DNS of single-phase compressible flows
 - CUBENS
-- HTR
+- HTR: https://github.com/stanfordhpccenter/HTR-solver
 - HyPAR
 - JAX-FLUIDS: https://github.com/tumaer/JAXFLUIDS
-- Parthenon-Hydro
+- Parthenon-Hydro: https://github.com/parthenon-hpc-lab/parthenon-hydro
 - PyFR
 - RHEA: https://gitlab.com/ProjectRHEA/flowsolverrhea
 - SENSEI
@@ -68,11 +67,11 @@ This repository contains the links to the software reported in the different tab
 - DALES
 - FastEddy: https://github.com/NCAR/FastEddy-model
 - GALES
-- LESGO
+- LESGO: https://github.com/lesgo-jhu/lesgo
 - MicroHH
 - Neko: https://github.com/ExtremeFLOW/neko
 - NekRS
-- Oceananigans.jl
+- Oceananigans.jl: https://github.com/CliMA/Oceananigans.jl
 - PALM
 - SOD2S: https://gitlab.com/bsc_sod2d/sod2d_gitlab
 - URANOS: https://github.com/uranos-gpu/uranos-gpu
