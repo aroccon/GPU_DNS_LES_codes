@@ -1,5 +1,4 @@
-The present repository is linked to the paper: "GPU-accelerated simulations of turbulence: Review of current applications and future perspectives", which is available here: 
-....
+The present repository is linked to the paper: "GPU-accelerated simulations of turbulence: Review of current applications and future perspectives" (under review).
 
 This repository contains the links to the software reported in the different tables.
 
@@ -10,10 +9,10 @@ This repository contains the links to the software reported in the different tab
 - FLuidX3D:  https://github.com/ProjectPhysX/FluidX3D
 - Flutas: https://github.com/Multiphysics-Flow-Solvers/FluTAS
 - MHIT36: https://github.com/MultiphaseFlowLab/MHIT36
-- Neko 
-- NekRS
-- nsCouette
-- Oceananigans.jl 
+- Neko: https://github.com/ExtremeFLOW/neko
+- NekRS: https://github.com/Nek5000/nekRS
+- nsCouette: https://github.com/dfeldmann/nsCouette
+- Oceananigans.jl: https://github.com/CliMA/Oceananigans.jl 
 - Palabos: https://gitlab.com/unigespc/palabos
 - SOD2D: https://gitlab.com/bsc_sod2d/sod2d_gitlab
 - spectralDNS: https://github.com/spectralDNS/spectralDNS
@@ -39,12 +38,12 @@ This repository contains the links to the software reported in the different tab
 
 
 ## Codes for DNS of single-phase compressible flows
-- CUBENS
+- CUBENS: https://github.com/pcboldini/CUBENS
 - HTR: https://github.com/stanfordhpccenter/HTR-solver
-- HyPAR
+- HyPAR: https://hypar.github.io
 - JAX-FLUIDS: https://github.com/tumaer/JAXFLUIDS
 - Parthenon-Hydro: https://github.com/parthenon-hpc-lab/parthenon-hydro
-- PyFR
+- PyFR: https://github.com/PyFR/PyFR
 - RHEA: https://gitlab.com/ProjectRHEA/flowsolverrhea
 - SENSEI
 - SOD2D: https://gitlab.com/bsc_sod2d/sod2d_gitlab
@@ -63,17 +62,24 @@ This repository contains the links to the software reported in the different tab
 
 ## Codes for LES
 - CaLES: https://github.com/CaNS-World/CaLES
-- CM1
-- DALES
+- CM1: https://www2.mmm.ucar.edu/people/bryan/cm1/
+- DALES: https://github.com/dalesteam/dales
 - FastEddy: https://github.com/NCAR/FastEddy-model
-- GALES
+- GALES: https://gales.pi.ingv.it/gales-code/
 - LESGO: https://github.com/lesgo-jhu/lesgo
-- MicroHH
+- MicroHH: https://microhh.org
 - Neko: https://github.com/ExtremeFLOW/neko
-- NekRS
+- NekRS:  https://github.com/Nek5000/nekRS
 - Oceananigans.jl: https://github.com/CliMA/Oceananigans.jl
-- PALM
+- PALM: https://palm.muk.uni-hannover.de/trac
 - SOD2S: https://gitlab.com/bsc_sod2d/sod2d_gitlab
 - URANOS: https://github.com/uranos-gpu/uranos-gpu
 
 
+## Additonal codes
+An additional list of open-source CFD codes and datasets is available at: https://github.com/thw1021/Code4CFD.
+The codes listed above are specifically open-source, parallel, and GPU-ready.
+
+
+## Contribute 
+If you would like to contribute or are aware of any open-source, parallel, and GPU-ready code relevant to this list, please feel free to open an issue or contact me via email.
