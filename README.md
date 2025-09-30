@@ -18,6 +18,7 @@ This repository contains the links to the software reported in the different tab
 - spectralDNS: https://github.com/spectralDNS/spectralDNS
 - SU2: https://su2code.github.io
 - WaterLily.jl: https://github.com/WaterLily-jl/WaterLily.jl
+- x3d2: https://github.com/xcompact3d/x3d2
 
 
 ## Codes for DNS of multiphase incompressible flows
@@ -74,6 +75,7 @@ This repository contains the links to the software reported in the different tab
 - PALM: https://palm.muk.uni-hannover.de/trac
 - SOD2S: https://gitlab.com/bsc_sod2d/sod2d_gitlab
 - URANOS: https://github.com/uranos-gpu/uranos-gpu
+- x3d2: https://github.com/xcompact3d/x3d2
 
 
 ## Additonal codes
