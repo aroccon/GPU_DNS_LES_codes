@@ -6,8 +6,8 @@ This repository contains the links to the software reported in the different tab
 - AFid: https://github.com/PhysicsofFluids/AFiD_GPU_opensource
 - CaNS: https://github.com/CaNS-World/CaNS
 - FLOW36: https://github.com/MultiphaseFlowLab/FLOW36
-- FLuidX3D:  https://github.com/ProjectPhysX/FluidX3D
 - Flutas: https://github.com/Multiphysics-Flow-Solvers/FluTAS
+- FLuidX3D:  https://github.com/ProjectPhysX/FluidX3D
 - MHIT36: https://github.com/MultiphaseFlowLab/MHIT36
 - Neko: https://github.com/ExtremeFLOW/neko
 - NekRS: https://github.com/Nek5000/nekRS
@@ -27,9 +27,9 @@ This repository contains the links to the software reported in the different tab
 - Aphros: https://github.com/cselab/aphros
 - Basilisk: http://basilisk.fr
 - CaNS-Fizzy: https://github.com/CaNS-World/CaNS-Fizzy
-- Flutas: https://github.com/Multiphysics-Flow-Solvers/FluTAS
 - FLOW36: https://github.com/MultiphaseFlowLab/FLOW36 
 - FluidX3D: https://github.com/ProjectPhysX/FluidX3D
+- Flutas: https://github.com/Multiphysics-Flow-Solvers/FluTAS
 - MHIT36: https://github.com/MultiphaseFlowLab/MHIT36
 - MRBC36: https://github.com/aroccon/MRBC36
 - MFIX-Exa: https://mfix.netl.doe.gov/products/mfix-exa/
@@ -46,6 +46,7 @@ This repository contains the links to the software reported in the different tab
 - HTR: https://github.com/stanfordhpccenter/HTR-solver
 - HyPAR: https://hypar.github.io
 - JAX-FLUIDS: https://github.com/tumaer/JAXFLUIDS
+- Nalu: https://github.com/NaluCFD/Nalu
 - Parthenon-Hydro: https://github.com/parthenon-hpc-lab/parthenon-hydro
 - PyFR: https://github.com/PyFR/PyFR
 - RHEA: https://gitlab.com/ProjectRHEA/flowsolverrhea
@@ -70,6 +71,7 @@ This repository contains the links to the software reported in the different tab
 - DALES: https://github.com/dalesteam/dales
 - FastEddy: https://github.com/NCAR/FastEddy-model
 - GALES: https://gales.pi.ingv.it/gales-code/
+- GFR: https://github.com/nasa/GFR
 - LESGO: https://github.com/lesgo-jhu/lesgo
 - MicroHH: https://microhh.org
 - Neko: https://github.com/ExtremeFLOW/neko
