@@ -5,6 +5,7 @@ This repository contains the links to the software reported in the different tab
 ## Codes for DNS of single-phase incompressible flows
 - AFid: https://github.com/PhysicsofFluids/AFiD_GPU_opensource
 - CaNS: https://github.com/CaNS-World/CaNS
+- Flash-X: https://github.com/Flash-X
 - FLOW36: https://github.com/MultiphaseFlowLab/FLOW36
 - Flutas: https://github.com/Multiphysics-Flow-Solvers/FluTAS
 - FLuidX3D:  https://github.com/ProjectPhysX/FluidX3D
@@ -27,6 +28,7 @@ This repository contains the links to the software reported in the different tab
 - Aphros: https://github.com/cselab/aphros
 - Basilisk: http://basilisk.fr
 - CaNS-Fizzy: https://github.com/CaNS-World/CaNS-Fizzy
+- Flash-X: https://github.com/Flash-X
 - FLOW36: https://github.com/MultiphaseFlowLab/FLOW36 
 - FluidX3D: https://github.com/ProjectPhysX/FluidX3D
 - Flutas: https://github.com/Multiphysics-Flow-Solvers/FluTAS
@@ -43,6 +45,7 @@ This repository contains the links to the software reported in the different tab
 
 ## Codes for DNS of single-phase compressible flows
 - CUBENS: https://github.com/pcboldini/CUBENS
+- Flash-X: https://github.com/Flash-X
 - HTR: https://github.com/stanfordhpccenter/HTR-solver
 - HyPAR: https://hypar.github.io
 - JAX-FLUIDS: https://github.com/tumaer/JAXFLUIDS
@@ -58,6 +61,7 @@ This repository contains the links to the software reported in the different tab
 
 
 ## Codes for DNS of multiphase compressible flows
+- Flash-X: https://github.com/Flash-X
 - JAX-FLUIDS: https://github.com/tumaer/JAXFLUIDS
 - MFC: https://github.com/MFlowCode/MFC
 - PeleC: https://github.com/AMReX-Combustion/PeleC
