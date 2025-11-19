@@ -44,12 +44,14 @@ This repository contains the links to the software reported in the different tab
 
 
 ## Codes for DNS of single-phase compressible flows
+- COREFL: https://github.com/Liangerty/COREFL-CPC
 - CUBENS: https://github.com/pcboldini/CUBENS
 - Flash-X: https://github.com/Flash-X
 - HTR: https://github.com/stanfordhpccenter/HTR-solver
 - HyPAR: https://hypar.github.io
 - JAX-FLUIDS: https://github.com/tumaer/JAXFLUIDS
 - Nalu: https://github.com/NaluCFD/Nalu
+- OpenCFD-SCU: https://github.com/OpenCFD-IMECH/OpenCFD-SCU
 - Parthenon-Hydro: https://github.com/parthenon-hpc-lab/parthenon-hydro
 - PyFR: https://github.com/PyFR/PyFR
 - RHEA: https://gitlab.com/ProjectRHEA/flowsolverrhea
@@ -61,6 +63,7 @@ This repository contains the links to the software reported in the different tab
 
 
 ## Codes for DNS of multiphase compressible flows
+- COREFL: https://github.com/Liangerty/COREFL-CPC
 - Flash-X: https://github.com/Flash-X
 - JAX-FLUIDS: https://github.com/tumaer/JAXFLUIDS
 - MFC: https://github.com/MFlowCode/MFC
