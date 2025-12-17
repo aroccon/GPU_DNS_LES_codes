@@ -18,7 +18,6 @@ This repository contains the links to the software reported in the different tab
 - SOD2D: https://gitlab.com/bsc_sod2d/sod2d_gitlab
 - spectralDNS: https://github.com/spectralDNS/spectralDNS
 - SU2: https://su2code.github.io
-- TCF36: https://github.com/aroccon/TCF36
 - WaterLily.jl: https://github.com/WaterLily-jl/WaterLily.jl
 - x3d2: https://github.com/xcompact3d/x3d2
 
@@ -38,7 +37,6 @@ This repository contains the links to the software reported in the different tab
 - NaSt3DGPF: https://ins.uni-bonn.de/media/public/u/griebel/NaSt3DGPF/
 - Palabos: https://gitlab.com/unigespc/palabos
 - PARIS: http://www.ida.upmc.fr/~zaleski/paris/
-- TCF36: https://github.com/aroccon/TCF36
 - TLBfind: https://github.com/FrancescaPelusi/TLBfind
 - WaterLily.jl: https://github.com/WaterLily-jl/WaterLily.jl
 
@@ -77,9 +75,11 @@ This repository contains the links to the software reported in the different tab
 - CM1: https://www2.mmm.ucar.edu/people/bryan/cm1/
 - DALES: https://github.com/dalesteam/dales
 - FastEddy: https://github.com/NCAR/FastEddy-model
+- GALAEXI: https://github.com/flexi-framework/galaexi
 - GALES: https://gales.pi.ingv.it/gales-code/
 - GFR: https://github.com/nasa/GFR
 - LESGO: https://github.com/lesgo-jhu/lesgo
+- LAVA: 
 - MicroHH: https://microhh.org
 - Neko: https://github.com/ExtremeFLOW/neko
 - NekRS:  https://github.com/Nek5000/nekRS
