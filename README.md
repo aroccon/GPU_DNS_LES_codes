@@ -18,6 +18,7 @@ This repository contains the links to the software reported in the different tab
 - SOD2D: https://gitlab.com/bsc_sod2d/sod2d_gitlab
 - spectralDNS: https://github.com/spectralDNS/spectralDNS
 - SU2: https://su2code.github.io
+- TRUST: https://github.com/cea-trust-platform/trust-code
 - WaterLily.jl: https://github.com/WaterLily-jl/WaterLily.jl
 - x3d2: https://github.com/xcompact3d/x3d2
 
@@ -31,6 +32,7 @@ This repository contains the links to the software reported in the different tab
 - FLOW36: https://github.com/MultiphaseFlowLab/FLOW36 
 - FluidX3D: https://github.com/ProjectPhysX/FluidX3D
 - Flutas: https://github.com/Multiphysics-Flow-Solvers/FluTAS
+- ImmerseFlow++: https://github.com/sushrutkr/ImmerseFlow/tree/main
 - MHIT36: https://github.com/MultiphaseFlowLab/MHIT36
 - MRBC36: https://github.com/aroccon/MRBC36
 - MFIX-Exa: https://mfix.netl.doe.gov/products/mfix-exa/
@@ -56,6 +58,7 @@ This repository contains the links to the software reported in the different tab
 - SENSEI
 - SOD2D: https://gitlab.com/bsc_sod2d/sod2d_gitlab
 - STREAmS: https://github.com/STREAmS-CFD/STREAmS-2?tab=readme-ov-file
+- TRUST: https://github.com/cea-trust-platform/trust-code
 - URANOS: https://github.com/uranos-gpu/uranos-gpu
 - ZEFR: https://data.mendeley.com/datasets/wzy83bscxd/1
 
@@ -68,6 +71,7 @@ This repository contains the links to the software reported in the different tab
 - PeleC: https://github.com/AMReX-Combustion/PeleC
 - RHEA: https://gitlab.com/ProjectRHEA/flowsolverrhea
 - STREAmS: https://github.com/STREAmS-CFD/STREAmS-2?tab=readme-ov-file
+- TRUST: https://github.com/cea-trust-platform/trust-code
 
 
 ## Codes for LES
