@@ -52,6 +52,7 @@ This repository contains the links to the software reported in the different tab
 - JAX-FLUIDS: https://github.com/tumaer/JAXFLUIDS
 - Nalu: https://github.com/NaluCFD/Nalu
 - OpenCFD-SCU: https://github.com/OpenCFD-IMECH/OpenCFD-SCU
+- OpenSBLI: https://github.com/opensbli/opensbli
 - Parthenon-Hydro: https://github.com/parthenon-hpc-lab/parthenon-hydro
 - PyFR: https://github.com/PyFR/PyFR
 - RHEA: https://gitlab.com/ProjectRHEA/flowsolverrhea
