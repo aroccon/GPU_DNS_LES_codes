@@ -1,6 +1,21 @@
-The present repository is linked to the paper: "GPU-accelerated simulations of turbulence: Review of current applications and future perspectives" (under review).
+The present repository is linked to the paper: "GPU-accelerated simulations of turbulence: Review of current applications and future perspectives".
+
+```bibtex
+@article{roccon2026gpu,
+  title = {GPU-accelerated simulations of turbulence: Review of current applications and future perspectives},
+  author = {Roccon, A. and Amati, G. and Brandt, L. and Calhoun, D. and Costa, P. and Lu, W. and Pirozzoli, S. and Richter, D. and Umair, M. and You, D. and Zahtila, T. and Marchioli, C.},
+  journal = {Phys. Rev. Fluids},
+  volume = {11},
+  issue = {3},
+  pages = {034905},
+  numpages = {49},
+  year = {2026},
+}
+```
 
 This repository contains the links to the software reported in the different tables.
+This repository will be continuosly updated over time.
+Last update: 24 March 2026.
 
 ## Codes for DNS of single-phase incompressible flows
 - AFid: https://github.com/PhysicsofFluids/AFiD_GPU_opensource
