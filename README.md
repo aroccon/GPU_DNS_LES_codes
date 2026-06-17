@@ -19,6 +19,7 @@ Last update: 24 March 2026.
 
 ## Codes for DNS of single-phase incompressible flows
 - AFid: https://github.com/PhysicsofFluids/AFiD_GPU_opensource
+- BFS3D: https://github.com/GEM3D/BFS3D
 - CaNS: https://github.com/CaNS-World/CaNS
 - Flash-X: https://github.com/Flash-X
 - FLOW36: https://github.com/MultiphaseFlowLab/FLOW36
