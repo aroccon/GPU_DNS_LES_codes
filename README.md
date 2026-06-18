@@ -15,7 +15,7 @@ The present repository is linked to the paper: "GPU-accelerated simulations of t
 
 This repository contains the links to the software reported in the different tables.
 This repository will be continuosly updated over time.
-Last update: 24 March 2026.
+Last update: 18 June 2026.
 
 ## Codes for DNS of single-phase incompressible flows
 - AFid: https://github.com/PhysicsofFluids/AFiD_GPU_opensource
@@ -31,6 +31,7 @@ Last update: 24 March 2026.
 - nsCouette: https://github.com/dfeldmann/nsCouette
 - Oceananigans.jl: https://github.com/CliMA/Oceananigans.jl 
 - Palabos: https://gitlab.com/unigespc/palabos
+- PittPack (Poisson solver): https://github.com/GEM3D/PittPack 
 - SOD2D: https://gitlab.com/bsc_sod2d/sod2d_gitlab
 - spectralDNS: https://github.com/spectralDNS/spectralDNS
 - SU2: https://su2code.github.io
