@@ -31,7 +31,7 @@ Last update: 18 June 2026.
 - nsCouette: https://github.com/dfeldmann/nsCouette
 - Oceananigans.jl: https://github.com/CliMA/Oceananigans.jl 
 - Palabos: https://gitlab.com/unigespc/palabos
-- PittPack (Poisson solver): https://github.com/GEM3D/PittPack 
+- PittPack: https://github.com/GEM3D/PittPack 
 - SOD2D: https://gitlab.com/bsc_sod2d/sod2d_gitlab
 - spectralDNS: https://github.com/spectralDNS/spectralDNS
 - SU2: https://su2code.github.io
