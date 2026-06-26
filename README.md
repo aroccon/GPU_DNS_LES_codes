@@ -50,6 +50,7 @@ Last update: 18 June 2026.
 - FluidX3D: https://github.com/ProjectPhysX/FluidX3D
 - Flutas: https://github.com/Multiphysics-Flow-Solvers/FluTAS
 - ImmerseFlow++: https://github.com/sushrutkr/ImmerseFlow/tree/main
+- LBM-Permeability: https://github.com/SalehMohammadrezaei/LBM-Permeability
 - MHIT36: https://github.com/MultiphaseFlowLab/MHIT36
 - MRBC36: https://github.com/aroccon/MRBC36
 - MFIX-Exa: https://mfix.netl.doe.gov/products/mfix-exa/
