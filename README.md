@@ -26,6 +26,7 @@ Last update: 18 June 2026.
 - Flutas: https://github.com/Multiphysics-Flow-Solvers/FluTAS
 - FLuidX3D:  https://github.com/ProjectPhysX/FluidX3D
 - MHIT36: https://github.com/MultiphaseFlowLab/MHIT36
+- HORSES3D: https://github.com/horses-framework/horses3d
 - Neko: https://github.com/ExtremeFLOW/neko
 - NekRS: https://github.com/Nek5000/nekRS
 - nsCouette: https://github.com/dfeldmann/nsCouette
@@ -49,6 +50,7 @@ Last update: 18 June 2026.
 - FLOW36: https://github.com/MultiphaseFlowLab/FLOW36 
 - FluidX3D: https://github.com/ProjectPhysX/FluidX3D
 - Flutas: https://github.com/Multiphysics-Flow-Solvers/FluTAS
+- HORSES3D: https://github.com/horses-framework/horses3d
 - ImmerseFlow++: https://github.com/sushrutkr/ImmerseFlow/tree/main
 - LBM-Permeability: https://github.com/SalehMohammadrezaei/LBM-Permeability
 - MHIT36: https://github.com/MultiphaseFlowLab/MHIT36
@@ -67,6 +69,7 @@ Last update: 18 June 2026.
 - Flash-X: https://github.com/Flash-X
 - HTR: https://github.com/stanfordhpccenter/HTR-solver
 - HyPAR: https://hypar.github.io
+- HORSES3D: https://github.com/horses-framework/horses3d
 - JAX-FLUIDS: https://github.com/tumaer/JAXFLUIDS
 - Nalu: https://github.com/NaluCFD/Nalu
 - OpenCFD-SCU: https://github.com/OpenCFD-IMECH/OpenCFD-SCU
